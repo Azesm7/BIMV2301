@@ -88,7 +88,7 @@ int main() {
         std::cout << "Корень 1: " <<  x1 <<std::endl;
         std::cout << "Корень 2: " << x2 << std::endl;
     }else if (x1 != 0 && x2 == 0) {
-        std::cout << "Корень: " << x2 << std::endl;
+        std::cout << "Корень: " << x1 << std::endl;
     }
     return 0;
 }
